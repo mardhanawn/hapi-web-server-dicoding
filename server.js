@@ -17,7 +17,5 @@ init();
 
 // how to start
 // npm run start
-// curl -X GET http://localhost:5000
-// curl -X GET http://localhost:5000/about
-// curl -X GET http://localhost:5000/any
-// curl -X POST http://localhost:5000
+// curl -X GET http://localhost:5000/hello/dicoding
+// curl -X GET http://localhost:5000/hello
